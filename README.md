@@ -8,7 +8,8 @@ simulating enterprise network segmentation, DNS filtering, IDS, and
 - Dell OptiPlex 7010 | i5-3470 | 16GB RAM | Proxmox VE 9.2.2
 
 ## Network Architecture
-<img width="626" height="813" alt="image" src="https://github.com/user-attachments/assets/9624b5ff-aa35-45be-a271-259e34eaaae2" />
+<img width="1149" height="1369" alt="image" src="https://github.com/user-attachments/assets/1931976f-4cd5-45d7-af30-3bbd83d08b74" />
+
 
 
 ## Stack
