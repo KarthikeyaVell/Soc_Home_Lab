@@ -20,7 +20,7 @@ simulating enterprise network segmentation, DNS filtering, IDS, and
 | Wazuh | SIEM | 🚧 in progress |
 | Zeek | Network monitoring | ⬜ planned |
 | T-Pot | Honeypot | ⬜ planned |
-| The Hive | case management, sits alongside Wazuh | ⬜ planned |
+| The Hive | Case management, sits alongside Wazuh | ⬜ planned |
 | MISP | Database of Malware Info | ⬜ planned |
 
 ## Why I built this
